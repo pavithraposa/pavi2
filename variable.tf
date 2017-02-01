@@ -1,5 +1,5 @@
 variable "instance_name" {
-        default = "pavi"
+        default = "pavs"
 }
 
 variable "aws_region" {
